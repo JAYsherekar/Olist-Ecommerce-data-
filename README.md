@@ -22,8 +22,6 @@ The objective of this project is to demonstrate practical data analysis skills, 
 ```
 📁 Excel_Dashboard/
    └── Excel dashboard file (.xlsx)
-![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/48dda9fe1cf008dbd8638de23bce99c5ee5feb10/Screenshot%202026-01-02%20201958.png).
-
 
 📁 PowerBI_Dashboard/
    └── Power BI dashboard file (.pbix)
@@ -65,9 +63,12 @@ README.md
 ## 📈 Dashboards Included
 
 * **Excel Dashboard** – KPI cards, charts, slicers, and summary tables
+  ![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/48dda9fe1cf008dbd8638de23bce99c5ee5feb10/Screenshot%202026-01-02%20201958.png)
+  
 * **Power BI Dashboard** – Interactive visuals with DAX measures and drill-downs
+  ![image alt]()
 * **Tableau Dashboard** – Visual storytelling with dynamic filters and charts
-
+  ![image alt]()
 ---
 
 ## 🚀 How to Use This Repository
