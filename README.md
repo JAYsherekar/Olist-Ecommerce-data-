@@ -66,9 +66,9 @@ README.md
   ![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/48dda9fe1cf008dbd8638de23bce99c5ee5feb10/Screenshot%202026-01-02%20201958.png)
   
 * **Power BI Dashboard** – Interactive visuals with DAX measures and drill-downs
-  ![image alt]()
+  ![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/d70772430d46e4abfc62335b9faed91277f9ba68/Screenshot%202026-01-02%20201324.png)
 * **Tableau Dashboard** – Visual storytelling with dynamic filters and charts
-  ![image alt]()
+  ![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/d70772430d46e4abfc62335b9faed91277f9ba68/Screenshot%202026-01-02%20202017.png)
 ---
 
 ## 🚀 How to Use This Repository
