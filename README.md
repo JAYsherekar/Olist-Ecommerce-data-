@@ -22,7 +22,7 @@ The objective of this project is to demonstrate practical data analysis skills, 
 ```
 📁 Excel_Dashboard/
    └── Excel dashboard file (.xlsx)
-![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/48dda9fe1cf008dbd8638de23bce99c5ee5feb10/Screenshot%202026-01-02%20201958.png)
+![image alt](https://github.com/JAYsherekar/Olist-Ecommerce-data-/blob/48dda9fe1cf008dbd8638de23bce99c5ee5feb10/Screenshot%202026-01-02%20201958.png).
 
 
 📁 PowerBI_Dashboard/
