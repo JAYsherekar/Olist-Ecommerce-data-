@@ -22,7 +22,7 @@ The objective of this project is to demonstrate practical data analysis skills, 
 ```
 📁 Excel_Dashboard/
    └── Excel dashboard file (.xlsx)
-![image alt](<img width="941" height="430" alt="Screenshot 2026-01-02 201958" src="https://github.com/user-attachments/assets/5845a119-f442-4de3-ae89-289d5575e53d" />
+![image alt](
 )
 
 
